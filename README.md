@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm kizza</h1>
 <h3 align="center">A passionate python, lua and c# devlopper from France</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kizza2&label=Profile%20views&color=0e75b6&style=flat" alt="kizza2" /> </p>
+
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 
 - 🔭 I’m currently working on [Bss script](https://github.com/kizza2/bss-updated)
 
