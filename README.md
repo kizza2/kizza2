@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
 <h1 align="center">Hi 👋, I'm kizza</h1>
 <h3 align="center">A passionate python, lua and c# devlopper from France</h3>
 
@@ -5,7 +6,7 @@
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 
-- 🔭 I’m currently working on [Bss script](https://github.com/kizza2/bss-updated)
+- 🔭 I’m currently &#160;&#160;working on [Bss script](https://github.com/kizza2/bss-updated)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kizza2?tab=repositories](https://github.com/kizza2?tab=repositories)
 
