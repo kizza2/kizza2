@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
 
-- 👨‍💻 My biggest project are available at : (https://github.com/kizza2/NightExploit-download)
+- 👨‍💻 My biggest project are available at : https://github.com/kizza2/NightExploit-download
 
 - 📫 How to reach me : **kizzaother@gmail.com**
 
