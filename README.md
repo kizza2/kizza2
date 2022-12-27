@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm kizza</h1>
 <h3 align="center">A passionate python, lua and c# devlopper from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kizza2" alt="kizza2" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kizza2&label=Profile%20views&color=0e75b6&style=flat" alt="kizza2" /> </p>
+
+<img align="right"alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working on [Bss script](https://github.com/kizza2/bss-updated)
 
