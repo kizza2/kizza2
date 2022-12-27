@@ -1,16 +1,19 @@
-![logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;![logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
+<!-- lmao what a shit ??-->
 <h1 align="center">Hi 👋, I'm kizza</h1>
-<h3 align="center">A passionate python, lua and c# devlopper from France</h3>
+<h3 align="center">A passionate python, lua and c# devlopper, from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kizza2&label=Profile%20views&color=0e75b6&style=flat" alt="kizza2" /> </p>
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 
-- 🔭 I’m currently &#160;&#160;working on [Bss script](https://github.com/kizza2/bss-updated)
+- 🔭 I’m currently working on : https://github.com/kizza2/bss-updated
 
-- 👨‍💻 All of my projects are available at [https://github.com/kizza2?tab=repositories](https://github.com/kizza2?tab=repositories)
+- 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
 
-- 📫 How to reach me **kizzaother@gmail.com**
+- 👨‍💻 My biggest project are available at : (https://github.com/kizza2/NightExploit-download)
+
+- 📫 How to reach me : **kizzaother@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
