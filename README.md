@@ -1,4 +1,4 @@
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;![logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
 <!-- lmao what a shit ??-->
 <h1 align="center">Hi 👋, I'm kizza</h1>
 <h3 align="center">A passionate python, lua and c# devlopper, from France</h3>
