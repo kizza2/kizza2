@@ -22,4 +22,3 @@
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kizza2&show_icons=true&theme=radical" />
 <img align ="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizza2&layout=compact" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kizza2)](https://github.com/anuraghazra/github-readme-stats)
