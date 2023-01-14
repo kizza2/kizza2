@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on : https://github.com/kizza2/bss-updated
 
-- 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
+- 🔭 I’m currently working on : https://github.com/kizza2/WebhookSpammer
 
-- 👨‍💻 My biggest project are available at : https://github.com/kizza2/NightExploit-download
+- 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
 
 - 📫 How to reach me : **kizzaother@gmail.com**
 
