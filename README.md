@@ -26,4 +26,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizza2&layout=compact">
 </p>
 
-<p><a href=#><img src="contributions.svg"></a></p>
+
