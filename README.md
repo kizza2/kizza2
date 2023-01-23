@@ -21,3 +21,4 @@
 <br>
 
 <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kizza2&show_icons=true&theme=radical)">
+<img align="center" src="https://profile-counter.glitch.me/kizza2/count.svg"  
