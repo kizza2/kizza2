@@ -1,4 +1,4 @@
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;![logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;![logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
 <!-- lmao what a shit ??-->
 <h1 align="center">Hi 👋, I'm kizza</h1>
 <h3 align="center">A passionate python, lua and c# devlopper, from France</h3>
@@ -7,13 +7,13 @@
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 
-- 🔭 I’m currently working on : https://github.com/kizza2/bss-updated
+- 🔭 I’m currently working on : https://github.com/kizza2/Hateful
 
-- 🔭 I’m currently working on : https://github.com/kizza2/WebhookSpammer
+- 🔭 I’m currently working on : https://github.com/kizza2/Webhook-tool
 
 - 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
 
-- 📫 How to reach me : **kizzaother@gmail.com**
+- 📫 How to reach me : **kizzaother@gmail.com** // **kizzouille#6969**
 
 
 <h3 align="left">&#160;&#160;Languages and Tools:</h3>
