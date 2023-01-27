@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 
-- 🔭 I’m currently working on : https://github.com/kizza2/Hateful
+- 🔭 I’m currently working on : https://github.com/kizza2/Hateful {coming soon!}
 
 - 🔭 I’m currently working on : https://github.com/kizza2/Webhook-tool
 
