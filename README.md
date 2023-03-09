@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kizza2&label=Profile%20views&color=0e75b6&style=flat" alt="kizza2" /> </p>
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
+<p>
 
 - 🔭 I’m currently working on : https://github.com/kizza2/Hateful {coming soon!}
-<p>
 
 - 🔭 I’m currently learning : CSS&#160;&#160;<img width ="25" src="https://cdn.discordapp.com/attachments/1075546868815233044/1083447570765983744/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667.png"></p>
 
