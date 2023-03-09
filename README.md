@@ -8,8 +8,9 @@
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 
 - 🔭 I’m currently working on : https://github.com/kizza2/Hateful {coming soon!}
+<p>
 
-- 🔭 I’m currently working on : https://github.com/kizza2/Webhook-tool
+- 🔭 I’m currently learning : CSS&#160;&#160;<img width ="25" src="https://cdn.discordapp.com/attachments/1075546868815233044/1083447570765983744/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667.png"></p>
 
 - 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
 
@@ -19,6 +20,7 @@
 <h3 align="left">&#160;&#160;Languages and Tools:</h3>
 <p align="left"> &#160;<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
+
 
 
 <p>
