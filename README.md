@@ -1,7 +1,7 @@
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;![logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
 <!-- lmao what a shit ??-->
 <h1 align="center">Hi 👋, I'm kizza</h1>
-<h3 align="center">A passionate python, lua and c# devlopper, from France</h3>
+<h3 align="center">A passionate python and lua devlopper, from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kizza2&label=Profile%20views&color=0e75b6&style=flat" alt="kizza2" /> </p>
 
@@ -10,11 +10,9 @@
 
 - 🔭 I’m currently working on : https://github.com/kizza2/Hateful {coming soon!}
 
-- 🔭 I’m currently learning : CSS&#160;&#160;<img width ="25" src="https://cdn.discordapp.com/attachments/1075546868815233044/1083447570765983744/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667.png"></p>
-
 - 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
 
-- 📫 How to reach me : **kizzaother@gmail.com** // **kiƶƶouille#6969**
+- 📫 How to reach me : **kizzaother@gmail.com** // **kizzouille**
 
 
 <h3 align="left">&#160;&#160;Languages and Tools:</h3>
