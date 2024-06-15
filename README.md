@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 <p>
 
-- 🔭 I’m currently working on : https://github.com/kizza2/Hateful {coming soon!} x)
+- 🔭 I’m currently working on : https://github.com/kizza2/Hateful
 
 - 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
 
