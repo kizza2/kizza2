@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my projects are available at : https://github.com/kizza2?tab=repositories
 
-- 📫 How to reach me : **kizzaother@gmail.com** // **kizzouille**
+- 📫 How to reach me : **kizzaother@gmail.com** // discord : **kizzouille**
 
 
 <h3 align="left">&#160;&#160;Languages and Tools:</h3>
