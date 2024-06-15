@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on : https://github.com/kizza2/Hateful
 
-- 👨‍💻 All of my projects are available at : https://github.com/kizza2?tab=repositories
+- 👨‍💻 Some of my projects are available at : https://github.com/kizza2?tab=repositories
 
 - 📫 How to reach me : **kizzaother@gmail.com** // **kizzouille**
 
