@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 <p>
 
-- 🔭 I’m currently working on a pc control program that i might release.
+- 🔭 I’m currently not working.
 
 - 👨‍💻 Some of my projects are available at : https://github.com/kizza2?tab=repositories
 
