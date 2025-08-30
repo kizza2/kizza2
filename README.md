@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently not working.
 
-- 👨‍💻 <s> Some of my projects are available at<s> : https://github.com/kizza2?tab=repositories 
+- 👨‍💻 <s> Some of my projects are available at </s> : https://github.com/kizza2?tab=repositories 
 
 - 📫 How to reach me : **kizzaother@gmail.com** // discord : **kizzouille**
 
